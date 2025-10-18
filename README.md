@@ -1,6 +1,5 @@
 <!-- Banner Section -->
-<h1 align="center">👋 Hi, I'm <b>Techin Charoensook</b> (Te)</h1>
-<h3 align="center">🎓 CE64 | Computer Engineering Student @ KMITL</h3>
+<h1 align="center">👋 Hi, Welecome To My Github</h1>
 
 ---
 
