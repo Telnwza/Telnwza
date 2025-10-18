@@ -3,33 +3,14 @@
 
 ---
 
-### 💡 About Me  
-- ⚙️ Passionate about **Embedded Systems**, **IoT**, and **Cloud Networking**  
-- 🌱 Currently learning **C / C++**, **Linux (Asahi & Arch)**
-- 💻 Comfortable with **Arduino IDE**, **VS Code**, and **GitHub**  
-- 🎨 Interested in combining **Engineering + Design + AI** to create real-world innovations  
-- 📫 Reach me at: **techin.cr@gmail.com**  
-
----
-
 ### 🧰 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
 </p>
-
----
-
-### 🚀 Featured Projects  
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**🤖 Robot Car**](https://github.com/Telnwza/RobotCar) | Smart autonomous robot using Arduino & sensors | Arduino, C++, TB6612FNG, HC-SR04 |
-| [**🧠 Programming Fundamentals**](https://github.com/Telnwza/Te-Programming-Fundamental-Assignment-2568) | Core C programming assignments and exercises | C |
 
 ---
 
