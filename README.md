@@ -4,12 +4,11 @@
 ---
 
 ### 💡 About Me  
-- 🔭 I’m currently working on **Robot Car Project** (Arduino + TB6612FNG + Ultrasonic + Line Sensors)  
 - ⚙️ Passionate about **Embedded Systems**, **IoT**, and **Cloud Networking**  
-- 🌱 Currently learning **C / C++**, **Linux (Asahi & Arch)**, and **Networking Fundamentals**  
-- 💻 Comfortable with **Arduino IDE**, **VS Code**, **Node-RED**, and **GitHub**  
+- 🌱 Currently learning **C / C++**, **Linux (Asahi & Arch)**
+- 💻 Comfortable with **Arduino IDE**, **VS Code**, and **GitHub**  
 - 🎨 Interested in combining **Engineering + Design + AI** to create real-world innovations  
-- 📫 Reach me at: **techin.crc@gmail.com**  
+- 📫 Reach me at: **techin.cr@gmail.com**  
 
 ---
 
