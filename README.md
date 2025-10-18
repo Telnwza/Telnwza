@@ -32,7 +32,6 @@
 |----------|--------------|------|
 | [**🤖 Robot Car**](https://github.com/Telnwza/RobotCar) | Smart autonomous robot using Arduino & sensors | Arduino, C++, TB6612FNG, HC-SR04 |
 | [**🧠 Programming Fundamentals**](https://github.com/Telnwza/Te-Programming-Fundamental-Assignment-2568) | Core C programming assignments and exercises | C, gcc, Linux |
-| [**🌿 BioHeat Aroma Cube (Design Project)**](#) | Eco-friendly charcoal packaging mockup | Canva, Product Design, Branding |
 
 ---
 
