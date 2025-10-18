@@ -31,7 +31,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**🤖 Robot Car**](https://github.com/Telnwza/RobotCar) | Smart autonomous robot using Arduino & sensors | Arduino, C++, TB6612FNG, HC-SR04 |
-| [**🧠 Programming Fundamentals**](https://github.com/Telnwza/Te-Programming-Fundamental-Assignment-2568) | Core C programming assignments and exercises | C, gcc, Linux |
+| [**🧠 Programming Fundamentals**](https://github.com/Telnwza/Te-Programming-Fundamental-Assignment-2568) | Core C programming assignments and exercises | C |
 
 ---
 
@@ -55,12 +55,12 @@
 ---
 
 ### ✨ Quote I Live By
-> “Build things that connect the physical and digital worlds.”
+> “Just Do it.”
 
 ---
 
 <!-- Footer -->
 <p align="center">
   🌟 Thanks for visiting my profile! 🌟 <br>
-  Let's create, innovate, and inspire together.
+  Created By Chat Gpt5.
 </p>
