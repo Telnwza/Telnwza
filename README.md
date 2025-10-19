@@ -28,7 +28,7 @@
 <p align="center">
   <a href="mailto:techin.crc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Telnwza"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/te.__lnwza"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/te._.lnwza"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
